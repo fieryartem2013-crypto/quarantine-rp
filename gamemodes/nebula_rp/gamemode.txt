@@ -1,0 +1,8 @@
+"Gamemode"
+{
+	"title"		"Nebula RP"
+	"type"		"roleplay"
+	"author"	"Nebula Team"
+	"base"		"sandbox"
+	"fallback"	"sandbox"
+}
